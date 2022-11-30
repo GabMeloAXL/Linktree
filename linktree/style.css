@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300;500&display=swap');
+* { 
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+} 
+body{
+    min-height: 100vh;
+    background: #FAF7FD; 
+    margin: auto;    
+    text-align: center;
+    color: #BB99DD;
+
+
+}
+
+img{
+    width: 175px; height: 185px; margin-top: 6%; border-radius: 50%;  border: 1px solid purple;
+    
+}
+li{
+    list-style-type: none;
+    width: 400px;
+    border: 2px solid #BB99DD;
+    box-sizing: border-box;
+    padding: 6px 15px;
+    margin: 2% auto;    
+    background-color: #FAF7FD;
+
+}
+li:hover{
+    background-color: #bb99dd;
+    color: #FAF7FD;
+}
+a{
+    text-decoration: none;
+    color: #BB99DD;
+
+}
+
+svg{
+    margin: 8px;
+}
